@@ -1,0 +1,35 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contact-section {
+    background-color:#D6EAF8;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.contact-section h2 {
+    color: #1A5276;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.contact-section p {
+    color: #17202A;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.contact-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-section li {
+    color: #17202A;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
